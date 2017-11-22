@@ -1,0 +1,23 @@
+
+#root {
+    padding: 50px 100px;
+}
+
+hr{
+    height:0px;
+    border:none;
+    border-bottom:solid 1px #e5e5e5;
+}
+
+.ant-avatar {
+    margin-right: 10px;
+}
+
+.infobox h2{
+    font-size:25px;
+}
+
+.infobox p{
+    font-size:18px;
+    margin-top:15px;
+}
